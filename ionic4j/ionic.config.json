@@ -1,0 +1,7 @@
+{
+  "name": "ionic4j",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
